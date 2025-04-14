@@ -4,3 +4,4 @@ opencv-python
 mediapipe
 numpy
 python-multipart
+websockets
